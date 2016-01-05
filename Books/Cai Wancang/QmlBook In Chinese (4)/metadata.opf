@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">4</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7b112147-296e-4cd8-9765-44ca705ecd36</dc:identifier>
+        <dc:title>QmlBook In Chinese</dc:title>
+        <dc:creator opf:file-as="Wancang, Cai" opf:role="aut">Cai Wancang</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.35.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Translate QmlBook to Chinese</dc:description>
+        <dc:publisher>GitBook</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>qml</dc:subject>
+        <dc:subject>qt</dc:subject>
+        <meta content="{&quot;Cai Wancang&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2016-01-05T10:17:50.407738+00:00" name="calibre:timestamp"/>
+        <meta content="QmlBook In Chinese" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

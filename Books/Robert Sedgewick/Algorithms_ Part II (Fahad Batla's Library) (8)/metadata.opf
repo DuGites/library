@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">8</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5fecce92-6311-4e72-81f3-c0a413156a62</dc:identifier>
+        <dc:title>Algorithms: Part II (Fahad Batla's Library)</dc:title>
+        <dc:creator opf:file-as="Sedgewick, Robert &amp; Wayne, Kevin" opf:role="aut">Robert Sedgewick</dc:creator>
+        <dc:creator opf:file-as="Sedgewick, Robert &amp; Wayne, Kevin" opf:role="aut">Kevin Wayne</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.35.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-01-04T16:00:00+00:00</dc:date>
+        <dc:publisher>Addison-Wesley Professional</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>algorithms</dc:subject>
+        <dc:subject>cs</dc:subject>
+        <meta content="{&quot;Robert Sedgewick&quot;: &quot;&quot;, &quot;Kevin Wayne&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2016-01-05T10:20:16.241529+00:00" name="calibre:timestamp"/>
+        <meta content="Algorithms: Part II (Fahad Batla's Library)" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

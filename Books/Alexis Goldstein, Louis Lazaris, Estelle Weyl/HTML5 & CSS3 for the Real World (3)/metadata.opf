@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f0d44efd-a4dc-4617-8a61-f448c037636b</dc:identifier>
+        <dc:title>HTML5 &amp; CSS3 for the Real World</dc:title>
+        <dc:creator opf:file-as="Goldstein, Alexis" opf:role="aut">Alexis Goldstein, Louis Lazaris, Estelle Weyl</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.35.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-01-04T16:00:00+00:00</dc:date>
+        <dc:publisher>SitePoint Pty. Ltd.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780987467485</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>html5</dc:subject>
+        <dc:subject>css3</dc:subject>
+        <dc:subject>web</dc:subject>
+        <meta content="{&quot;Alexis Goldstein, Louis Lazaris, Estelle Weyl&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2016-01-05T10:16:55.108389+00:00" name="calibre:timestamp"/>
+        <meta content="HTML5 &amp; CSS3 for the Real World" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

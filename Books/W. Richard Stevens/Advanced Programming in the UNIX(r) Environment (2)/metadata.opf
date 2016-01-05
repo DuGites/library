@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4251d428-cc53-4f1e-bfea-35e09d4d9049</dc:identifier>
+        <dc:title>Advanced Programming in the UNIX® Environment</dc:title>
+        <dc:creator opf:file-as="Stevens, W. Richard &amp; Rago, Stephen A." opf:role="aut">W. Richard Stevens</dc:creator>
+        <dc:creator opf:file-as="Stevens, W. Richard &amp; Rago, Stephen A." opf:role="aut">Stephen A. Rago</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.35.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-05-09T08:42:06+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <dc:subject>apue</dc:subject>
+        <dc:subject>linux</dc:subject>
+        <meta content="{&quot;Stephen A. Rago&quot;: &quot;&quot;, &quot;W. Richard Stevens&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2016-01-05T10:16:09.793508+00:00" name="calibre:timestamp"/>
+        <meta content="Advanced Programming in the UNIX® Environment" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

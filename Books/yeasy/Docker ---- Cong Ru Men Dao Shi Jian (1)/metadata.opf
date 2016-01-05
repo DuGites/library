@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">35757de8-1f47-4555-a1b4-5ddcaffae888</dc:identifier>
+        <dc:title>Docker —— 从入门到实践</dc:title>
+        <dc:creator opf:file-as="yeasy" opf:role="aut">yeasy</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.35.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Teach you have to understand and use docker, with practical cases.</dc:description>
+        <dc:publisher>GitBook</dc:publisher>
+        <dc:language>zho</dc:language>
+        <dc:subject>docker</dc:subject>
+        <dc:subject>devops</dc:subject>
+        <meta content="{&quot;yeasy&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2016-01-05T10:14:56.672796+00:00" name="calibre:timestamp"/>
+        <meta content="Docker —— 从入门到实践" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

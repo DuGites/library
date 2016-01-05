@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">13</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6cb613ac-2c7a-4fd1-919b-dcecec62aa8b</dc:identifier>
+        <dc:title>Node.js实战</dc:title>
+        <dc:creator opf:file-as="Unknown" opf:role="aut">Unknown</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.35.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-04-29T16:00:00+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <dc:subject>node.js</dc:subject>
+        <dc:subject>js</dc:subject>
+        <dc:subject>web</dc:subject>
+        <meta content="{&quot;Unknown&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2016-01-05T11:43:18+00:00" name="calibre:timestamp"/>
+        <meta content="Node.js实战" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>
