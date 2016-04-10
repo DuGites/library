@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">18</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">775779a4-18de-402c-a1af-3ab732b5e64c</dc:identifier>
+        <dc:title>UNIX网络编程 卷1 套接字联网API</dc:title>
+        <dc:creator opf:file-as="（美）W.RichardStevens著" opf:role="aut">W. Richard Stevens</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.54.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-03-28T09:24:18+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <dc:subject>unix</dc:subject>
+        <dc:subject>linux</dc:subject>
+        <dc:subject>socket</dc:subject>
+        <dc:subject>network</dc:subject>
+        <meta content="{&quot;W. Richard Stevens&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2016-04-10T03:07:58+00:00" name="calibre:timestamp"/>
+        <meta content="UNIX网络编程 卷1 套接字联网API" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>
