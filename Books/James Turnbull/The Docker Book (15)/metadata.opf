@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">15</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4c075744-3da5-4123-9073-3e9ca83a8bff</dc:identifier>
+        <dc:title>The Docker Book</dc:title>
+        <dc:creator opf:file-as="Turnbull, James" opf:role="aut">James Turnbull</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.54.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <dc:subject>devops</dc:subject>
+        <dc:subject>docker</dc:subject>
+        <meta content="{&quot;James Turnbull&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="6" name="calibre:rating"/>
+        <meta content="2016-04-10T03:05:01.833585+00:00" name="calibre:timestamp"/>
+        <meta content="Docker Book, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

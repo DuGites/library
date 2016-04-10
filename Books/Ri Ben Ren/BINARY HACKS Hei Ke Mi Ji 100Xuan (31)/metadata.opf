@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">31</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">96cab020-53db-4b53-b410-d3fb229807fb</dc:identifier>
+        <dc:title>BINARY HACKS 黑客秘笈100选</dc:title>
+        <dc:creator opf:file-as="日本人 &amp; 某位大神扫描归档" opf:role="aut">日本人</dc:creator>
+        <dc:creator opf:file-as="日本人 &amp; 某位大神扫描归档" opf:role="aut">某位大神扫描归档</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.54.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-09-08T13:52:58+00:00</dc:date>
+        <dc:description>书签增加 乔宏
+增加书签挺累的。不过在增加标签的时候，
+学习到了很多的知识。</dc:description>
+        <dc:language>en</dc:language>
+        <dc:subject>hack</dc:subject>
+        <meta content="{&quot;某位大神扫描归档&quot;: &quot;&quot;, &quot;日本人&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2016-04-10T03:22:47.779754+00:00" name="calibre:timestamp"/>
+        <meta content="BINARY HACKS 黑客秘笈100选" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

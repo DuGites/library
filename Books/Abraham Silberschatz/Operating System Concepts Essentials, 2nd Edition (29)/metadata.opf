@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">29</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6f551626-5cd5-4ae1-a76a-0025e6543c81</dc:identifier>
+        <dc:title>Operating System Concepts Essentials, 2nd Edition</dc:title>
+        <dc:creator opf:file-as="Silberschatz, Abraham" opf:role="aut">Abraham Silberschatz</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.54.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-10-28T10:06:52+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <dc:subject>os</dc:subject>
+        <meta content="{&quot;Abraham Silberschatz&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2016-04-10T03:19:51.453233+00:00" name="calibre:timestamp"/>
+        <meta content="Operating System Concepts Essentials, 2nd Edition" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

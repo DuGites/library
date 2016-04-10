@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">35</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">11d2c83c-a2e8-453f-9f84-3a4fe18ef5c8</dc:identifier>
+        <dc:title>Unix Network Programming Vol2</dc:title>
+        <dc:creator opf:file-as="Stevens, W. Richard" opf:role="aut">W. Richard Stevens</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.54.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <dc:subject>linux</dc:subject>
+        <dc:subject>network</dc:subject>
+        <meta content="{&quot;W. Richard Stevens&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2016-04-10T03:25:07.843236+00:00" name="calibre:timestamp"/>
+        <meta content="Unix Network Programming Vol2" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

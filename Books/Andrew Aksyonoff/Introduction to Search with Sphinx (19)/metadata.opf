@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">19</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6b09be59-7e4c-44df-8caf-fec6de77a717</dc:identifier>
+        <dc:title>Introduction to Search with Sphinx</dc:title>
+        <dc:creator opf:file-as="Aksyonoff, Andrew" opf:role="aut">Andrew Aksyonoff</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.54.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-04-15T14:30:13+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <dc:subject>sphinx</dc:subject>
+        <dc:subject>search</dc:subject>
+        <meta content="{&quot;Andrew Aksyonoff&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2016-04-10T03:08:53.564861+00:00" name="calibre:timestamp"/>
+        <meta content="Introduction to Search with Sphinx" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>
